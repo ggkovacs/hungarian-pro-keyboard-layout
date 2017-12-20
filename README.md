@@ -1,4 +1,8 @@
-# Hungarian Pro v2 keyboard layout for macOS
+[default]: https://github.com/ggkovacs/hungarian-pro-v2/blob/master/images/default.png
+[option]: https://github.com/ggkovacs/hungarian-pro-v2/blob/master/images/option.png
+[capslock]: https://github.com/ggkovacs/hungarian-pro-v2/blob/master/images/capslock.png
+
+# Hungarian Pro keyboard layout for macOS
 Version: 2
 
 ## Install
@@ -20,6 +24,12 @@ sudo chmod u+rwx *
 
 **Default**
 
+![Default layout][default]
+
 **Option**
 
+![Option layout][option]
+
 **Caps lock**
+
+![Caps lock layout][capslock]
