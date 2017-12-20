@@ -7,7 +7,7 @@ Version: 2
 
 ## Install
 
-Copy to `~/Library/Keyboard Layouts` or `/Library/Keyboard Layouts`
+Copy `hungarian_pro_v2.keylayout` to `~/Library/Keyboard Layouts` or `/Library/Keyboard Layouts`
 
 ## Modify permissions
 > source by https://apple.stackexchange.com/questions/300606/keyboard-layout-keeps-reverting-since-upgrade-to-high-sierra
